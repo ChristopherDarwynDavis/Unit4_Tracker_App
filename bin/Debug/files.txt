@@ -1,0 +1,6 @@
+titles.txt
+rating.txt
+seriesImages.txt
+preOrderTitles.txt
+price.txt
+preOrderImages.txt

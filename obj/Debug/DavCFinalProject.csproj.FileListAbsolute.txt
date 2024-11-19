@@ -1,0 +1,14 @@
+C:\CS130IntroToProg\DavCFinalProject\bin\Debug\DavCFinalProject.exe.config
+C:\CS130IntroToProg\DavCFinalProject\bin\Debug\DavCFinalProject.exe
+C:\CS130IntroToProg\DavCFinalProject\bin\Debug\DavCFinalProject.pdb
+C:\CS130IntroToProg\DavCFinalProject\obj\Debug\DavCFinalProject.csproj.AssemblyReference.cache
+C:\CS130IntroToProg\DavCFinalProject\obj\Debug\DavCFinalProject.Properties.Resources.resources
+C:\CS130IntroToProg\DavCFinalProject\obj\Debug\DavCFinalProject.csproj.GenerateResource.cache
+C:\CS130IntroToProg\DavCFinalProject\obj\Debug\DavCFinalProject.csproj.CoreCompileInputs.cache
+C:\CS130IntroToProg\DavCFinalProject\obj\Debug\DavCFinalProject.exe
+C:\CS130IntroToProg\DavCFinalProject\obj\Debug\DavCFinalProject.pdb
+C:\CS130IntroToProg\DavCFinalProject\obj\Debug\DavCFinalProject.trackerForm.resources
+C:\CS130IntroToProg\DavCFinalProject\obj\Debug\DavCFinalProject.dashboardForm.resources
+C:\CS130IntroToProg\DavCFinalProject\obj\Debug\DavCFinalProject.seriesWatchedForm.resources
+C:\CS130IntroToProg\DavCFinalProject\obj\Debug\DavCFinalProject.preOrderForm.resources
+C:\CS130IntroToProg\DavCFinalProject\obj\Debug\DavCFinalProject.settingsForm.resources

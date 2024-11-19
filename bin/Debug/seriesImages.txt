@@ -1,0 +1,6 @@
+Sample Images\reZerocover.jpg
+Sample Images\initialDcover.jpg
+Sample Images\bunnyGirlSenpaiCover.jpg
+Sample Images\darwinsGameCover.jpg
+Sample Images\risingOfTheShieldHeroCover.jpg
+Sample Images\konosubaCover.jpg
